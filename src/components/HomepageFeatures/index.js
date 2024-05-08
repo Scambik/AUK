@@ -4,27 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Hlas a tón značky',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Táto príručka má za cieľ pomôcť všetkým členom tímu porozumieť a používať hlas a tón značky, aby sme vytvorili jednotnú komunikáciu so zákazníkmi a partnermi.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Usmernenia pre obsah',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Obsahová stratégia určuje, ako bude značka komunikovať so svojím publikom. Dodržiavaním usmernení dosiahnete konzistentný a efektívny obsah naprieč všetkými kanálmi.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Ukážky implementácie',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
