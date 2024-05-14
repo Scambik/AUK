@@ -32,3 +32,9 @@ K vytvoreniu novej karty použite túto cestu:
 ![Nespravny kod](./img/nespravny-kod-4.png)
 ![Nespravny kod](./img/nespravny-kod-5.png)
 ![Nespravny kod](./img/nespravny-kod-6.png)
+
+**Zakladanie olejových kariet:**
+
+Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidlá:
+-	Olej **WOLF, RAVENOL, FEBI, VAG** – číslovanie, tak ako je uvedené v TecDocu.
+-	Ostatné oleje – **ELF, SELENIA, MOTUL, MOBIL, TOTAL, BMW, SHELL, CASTROL....** – kód vždy začína skratkou značky oleja a nasleduje číselný alebo kód, ak výrobca číselný kód nemá je potrebné vytvoriť kartu s označením viskozity a litráže. 
