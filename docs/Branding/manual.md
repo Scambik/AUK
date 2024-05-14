@@ -115,16 +115,16 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 
 #### 2.4.2 Príklady správnych názvov:
 
-- <span style="color:#D42B49">**Batérie:**</span> **Autobatéria EXIDE 77Ah 12V 760A Premium** (Názov, značka, kapacita, napätie, štartovací prúd, produktová rada)
-- **Oleje:**  **Motorový olej CASTROL 0W30 1L EDGE** (Názov, značka, viskozita, litráž, označenie produktovej rady)
-- **Kvapaliny:**
+- ### Batérie: **Autobatéria EXIDE 77Ah 12V 760A Premium** (Názov, značka, kapacita, napätie, štartovací prúd, produktová rada)
+- ### Oleje:  **Motorový olej CASTROL 0W30 1L EDGE** (Názov, značka, viskozita, litráž, označenie produktovej rady)
+- ### Kvapaliny:
     - **Nemrznúca zmes do ostrekovačov 5L -20C ovocná vôňa** (Názov, litráž, bližšie označenie)
     - **Brzdová kvapalina BOSCH DOT4 5L** (Názov tovaru, výrobca, typ, litráž)
-- **Autokozmetika/Chémia:**
+- ### Autokozmetika/Chémia:
     - **Čistič bŕzd TEXTAR 500 ml sprej** (Názov, výrobca, veľkosť balenia, konzistencia, príp. iné doplňujúce údaje)
     - **Tekutý vosk K2 700ml SPECTRUM**
-- **Žiarovky**: **Žiarovka BOSCH H7 12V 55W Pure Light** (Názov, výrobca, typ svetla, napätie, výkon, označenie rady)
-- **Autodiely – príklady názvov**:
+- ### Žiarovky: **Žiarovka BOSCH H7 12V 55W Pure Light** (Názov, výrobca, typ svetla, napätie, výkon, označenie rady)
+- ### Autodiely – príklady názvov:
     - **Brzdový kotúč, Brzdové platničky, Brzdový strmeň, ....Tlmič pruženia, Olejový filter, Palivový filter, Kabínový filter, Vzduchový filter, Pružina podvozku, Čelné sklo....**
 
 Vždy do názvu uvedieme čo najviac informácií, ktoré sú potrebné: **napríklad nielen kryt, ale kryt čoho?** Nielen sada, ale sada čoho? Nielen lanko, ale lanko čoho? Aké lanko? ....
