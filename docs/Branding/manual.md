@@ -105,3 +105,5 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 ![Nespravny nazov](./img/nespravny-nazov-7.png)
 ![Nespravny nazov](./img/nespravny-nazov-8.png)
 ![Nespravny nazov](./img/nespravny-nazov-9.png)
+
+*„Tovar alebo službu, ktorú podnikateľ predáva, nie je možné označiť na pokladničnom doklade len číselným alebo alfanumerickým kódom. Tovar alebo služba musí byť označená tak, aby bolo možné jednoznačne predávaný tovar alebo poskytovanú službu identifikovať a odlíšiť od iného tovaru, resp. služby, pričom je potrebné používať aj diakritiku. Povolené je aj používanie skráteného názvu predávaného tovaru alebo poskytovanej služby, ale aj v tomto prípade pozor na to, aby názov podnikateľ skrátil tak, aby tovar alebo poskytnutá služba bola jasne identifikovateľná.“*
