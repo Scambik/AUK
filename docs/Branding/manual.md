@@ -52,4 +52,9 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 **GS55545M4** – Motorový olej VAG 0W30 5L LONGLIFE III FE 
 **1221104-001-01-999** – Prevodový olej RAVENOL 75W 1L MTF-3
 
-#### 2.2.4 
+#### 2.2.4 Zakladanie kariet autopríslušenstva, kozmetiky a chémie:
+
+Sortiment, ktorý je predávaný pod skupinou produktov **AMTRA** – kód a výrobcu uvedenieme tak ako je na obale produktu –  nezadávame výrobcu AMTRA, ale uvedenie konkrétneho výrobcu MOJE AUTO, Permatex, STP, WD-40, Slime....
+Produkty od dodávateľa **AUTOMAX** - pred 4-miestny kód je potrebné zadať písmeno „A“ - **príklad A-0505** (4-miestne kódy sú v NEXTISE ťažko dohľadateľné).
+Karty **AMIO** – 5-ciferný kód z katalógu AMIO – výrobca uvedieme tak ako je uvedený v katalógu AMIO – ak je AMIO zadáme AMIO,  ak je BASEUS dávame BASEUS, Kufieta, Car commerce....  a podobne.
+**CAR COMMERCE** – ten istý tovar je dostupný vo firme Auto Partner pod CC+5-ciferný kód u dodávateľa AMIO pod 5-ciferným kód bez CC. Karty je potrebné založiť bez CC, tak ako je uvedené na produkte.
