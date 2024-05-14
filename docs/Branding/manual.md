@@ -18,12 +18,12 @@ K vytvoreniu novej karty použite túto cestu:
 
 ### 2.2 Číslo skupiny / číslo TecDoc
 
-**Základné pravidlá:**
+#### 2.2.1 Základné pravidlá:
 - Kód položky je **vždy bez medzier** (bez medzier pred kódom, v kóde a za kódom).
 -	Ak je v kóde kombinácia čísla a textu, **text je vždy veľkými písmenami.**
 -	Ak je TecDoc-ový výrobca dielu – **číslo skupiny je rovnaké** ako **je kód pre TecDoc.**
 
-**Ukážky nesprávne zadaných kódov:**
+#### 2.2.2 Ukážky nesprávne zadaných kódov:
 
 
 ![Nespravny kod](./img/nespravny-kod-1.png)
@@ -33,8 +33,23 @@ K vytvoreniu novej karty použite túto cestu:
 ![Nespravny kod](./img/nespravny-kod-5.png)
 ![Nespravny kod](./img/nespravny-kod-6.png)
 
-**Zakladanie olejových kariet:**
+#### 2.2.3 Zakladanie olejových kariet:
 
 Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidlá:
 -	Olej **WOLF, RAVENOL, FEBI, VAG** – číslovanie, tak ako je uvedené v TecDocu.
 -	Ostatné oleje – **ELF, SELENIA, MOTUL, MOBIL, TOTAL, BMW, SHELL, CASTROL....** – kód vždy začína skratkou značky oleja a nasleduje číselný alebo kód, ak výrobca číselný kód nemá je potrebné vytvoriť kartu s označením viskozity a litráže. 
+
+**Šablóny pre vytváranie kódov kariet olejov:**
+**ELF5W30EVOFTFE1** – Motorový olej ELF 5W30 1L EVOLUTION FULLTECH **FESEL0W30WRFOR1** – Motorový olej FORD 0W30 1L WR FORWARD
+**MOT104074** – Motorový olej MOTUL 10W50 1L 5100 4T
+**MOB154294** -  Motorový olej MOBIL 5W30 5L ESP FORMULA
+**TOT213768** – Motorový olej TOTAL 5W30 1L Quartz INEO ECS
+**CAS15665F** – Motorový olej CASTROL 5W30 1L EDGE TITANIUM LL
+**SHE999** – Motorový olej SHELL 5W30 1L Helix HX8 ECT
+**BMW5W30LL041** – Motorový olej BMW 5W30 1L TPT LL04
+**MAZ5W30ULTRA1** – Motorový olej MAZDA 5W30 1L ORIGINAL ULTRA
+**27975** - Olej do automatickej prevodovky FEBI 1 L 
+**GS55545M4** – Motorový olej VAG 0W30 5L LONGLIFE III FE 
+**1221104-001-01-999** – Prevodový olej RAVENOL 75W 1L MTF-3
+
+#### 2.2.4 
