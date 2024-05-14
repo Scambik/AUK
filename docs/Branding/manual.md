@@ -40,6 +40,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 -	Ostatné oleje – **ELF, SELENIA, MOTUL, MOBIL, TOTAL, BMW, SHELL, CASTROL....** – kód vždy začína skratkou značky oleja a nasleduje číselný alebo kód, ak výrobca číselný kód nemá je potrebné vytvoriť kartu s označením viskozity a litráže. 
 
 **Šablóny pre vytváranie kódov kariet olejov:**
+
 **ELF5W30EVOFTFE1** – Motorový olej ELF 5W30 1L EVOLUTION FULLTECH **FESEL0W30WRFOR1** – Motorový olej FORD 0W30 1L WR FORWARD
 **MOT104074** – Motorový olej MOTUL 10W50 1L 5100 4T
 **MOB154294** -  Motorový olej MOBIL 5W30 5L ESP FORMULA
@@ -58,3 +59,14 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 - Produkty od dodávateľa **AUTOMAX** - pred 4-miestny kód je potrebné zadať písmeno „A“ - **príklad A-0505** (4-miestne kódy sú v NEXTISE ťažko dohľadateľné).
 - Karty **AMIO** – 5-ciferný kód z katalógu AMIO – výrobca uvedieme tak ako je uvedený v katalógu AMIO – ak je AMIO zadáme AMIO,  ak je BASEUS dávame BASEUS, Kufieta, Car commerce....  a podobne.
 - **CAR COMMERCE** – ten istý tovar je dostupný vo firme Auto Partner pod CC+5-ciferný kód u dodávateľa AMIO pod 5-ciferným kód bez CC. Karty je potrebné založiť bez CC, tak ako je uvedené na produkte.
+
+### 2.3 Výrobca / značka
+
+#### 2.3.1 Základné pravidlá:
+
+-	Pri vytváraní karty na **originálny diel** uveďte výrobcu **vždy OE** – nie ORIG DIEL, nie ORIGINÁLNE DIELY, nie ORI, konkrétnu značku (diel môže byť použiteľný pre viacero značiek príklad AUDI, SEAT, ŠKODA, VW, PSA, ....).
+-	Do výrobcu **nezadávajte názov firmy**, od ktorej diel kupujete (LKQ, LUSJA, PANACEA, BARDI,MATEX...). Výnimka je pri dodávateľoch, ktorý sú aj výrobcami, napr. AMIO.
+-	Ak je výrobca dielu TecDoc-ový – výrobcu **vyberiete zo zoznamu výrobcov** a zadáte ho tak ako je uvedený výrobca v TecDocu.
+-	Ak výrobca dielu **nie je TecDoc-ový** – ako výrobcu uvediete výrobcu, ktorý je uvedený **na produkte** alebo tak **ako ho má uvedený dodávateľ** (BOLL, HART, NEO TOOLS, MOJE AUTO...)
+-	Ak výrobcu dielu **nepoznáte** – do kolonky výrobca uvediete **“OST“**.
+-	U turbodúchadiel od firmy MATEX **– do výrobcu uvediete „RC“**.
