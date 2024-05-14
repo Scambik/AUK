@@ -24,6 +24,8 @@ K vytvoreniu novej karty použite túto cestu:
 -	Ak je TecDoc-ový výrobca dielu – **číslo skupiny je rovnaké** ako **je kód pre TecDoc.**
 
 **Ukážky nesprávne zadaných kódov:**
+
+
 ![Nespravny kod](./img/nespravny-kod-1.png)
 ![Nespravny kod](./img/nespravny-kod-2.png)
 ![Nespravny kod](./img/nespravny-kod-3.png)
