@@ -175,6 +175,60 @@ Pri zadávaní názvu je pre vybranú skupinu užívateľov povolené zaradenie 
 
 **Samostatnou skupinou sú produkty, kde je naviazaná na produkt záloha** za starý diel. V takomto prípade musíme okrem bežnej predajnej karty vytvoriť aj tovarovú kartu pre zálohu a zaradíme ju do skupiny Zálohy / podskupina podľa výrobcu. (Príklad Zálohy/TRW/TRW). V tovarovej karte potom naviažeme na kartu zálohu. V produktovej karte – príplatky cez možnosť „pridať zboží“ zadáme kód zálohy, jej množstvo a cenu. Takto bude položka správne naviazaná pri predaji k tovaru. 
 
+
 ![Produkt zaloha](./img/produkt-zaloha.png)
 
 ### 2.6 Dodávateľ a objednávacie číslo / Výrobca u dodávateľa
+
+Nie vždy je objednávacie číslo u dodávateľa rovnaké ako naše číslo – pred založením karty je potrebné preveriť či karta neexistuje v systéme pod iným kódom ako je objednávacie číslo u dodávateľa. 
+
+#### 2.6.1 Príklady:
+
+- <Highlight> AUTOPARTS </Highlight> – v NEXTISE kód 23587.200.1, výrobca ZIMMERMANN, v AUTOAPARTS kód AP15060D.
+- <Highlight> AUTO PARTNER </Highlight> – v NEXTISE kód 42932, výrobca CAR COMMERCE, kód AUTO PARTNER CCM42932.
+- <Highlight> MOTOROL </Highlight> – v NEXTISE 01-400, výrobca WD-40, kód MOTOROL AMT01-400.
+- <Highlight> MOTO PROFIL </Highlight> – tento dodávateľ používa u položiek „PREFIX“ – tento údaje je potrebné pri zakladaní karty uviesť do kolónky prefiks. 
+
+![Motoprofil prefix](./img/motoprofil-prefix.png)
+
+*U niektorých dodávateľov je možnosť objednávať kartónové balenia, takéto karty nezakladajte, pretože si vyžadujú špecifické nastavenia. V prípade potreby založenia takejto karty je na konci manuálu uvedený kontakt. *
+
+*Ak je chybne zadaný objednávací kód alebo výrobca – nebudú sa správne zobrazovať stavy a aktualizovať sa správne ceny.*
+
+:::danger[POZOR]
+<Highlight> Nesprávne založená karta mala za následok vznik duplicity v NEXTISE </Highlight>
+:::
+
+![Nextis duplicita](./img/nextis-duplicita-1.png)
+![Nextis duplicita](./img/nextis-duplicita-2.png)
+
+### 2.7 Nastavenie náhrad v produktovej karte
+
+U niektorých dielov hlavne tých netecdocových nie sú v karte naviazané náhrady. V tomto prípade si náhrady nahrávame sami. Náhrady v systéme sú dôležité či už pri naskladňovaní, vyhodnocovaní predajnosti, pri predaji, ale uľahčujú tiež vyhľadávanie zákazníkom. Majú svoj význam hlavne pri autochémii, autokozmetike, doplnkovom sortimente, náplniach, kvapalinách..., ale napríklad aj pri položkách, ktoré nie sú tecdocovým výrobcom, ale vieme ich na tecdocového naviazať.
+
+![Produktove nahrady](./img/produktove-nahrady.png)
+
+Náhradu pridáme cez náhrady v produktovej karte, nová položka, zadáme kód náhrady a potvrdíme.
+
+### 2.8 Nastavenie Eshop / SEO v produktovej karte
+
+Ak chceme, aby položka zaradená v univerzálnych dieloch, je potrebné ju zaradiť do stromu univerzálnych dielov v produktovej karte – Eshop. Ak chceme, aby sa položka zobrazovala na eshope AutoSave – zvolíme stredisko Malacky, ak sa má zobrazovať na eshope Aukaro – volíme stredisko Aukaro. Vždy ju zaraďujeme do najnižšej možnej podkategórie. 
+
+Položku môžeme zaradiť aj do viacerých kategórií / podkategórií – napríklad olej zadávame do členenia podľa viskozity aj podľa litráže. 
+
+Ak nie je vytvorená kategória, do ktorej by mohla položka patriť pridáme novú cez funkciu „nová zložka“. Na ktorej kategórii sme – na takej úrovni novú zložku vytvorí. Po vytvorení takejto kategórie je potrebné urobiť ďalšie nastavenia – viac v bode 2.8.
+
+![SEO](./img/seo-1.png)
+
+<Highlight> Popis položky pre eshop: </Highlight> Je krátky popis, ktorý sa zobrazuje na eshope hneď za názvom a kódom. Tento popis môžeme uviesť rovnaký ako popis stránky.
+
+![SEO](./img/seo-2.png)
+
+Popis stránky / SEO popis  – nájdeme v „Zařazení a SEO. SEO popis, známy aj ako meta popis, je krátky text, ktorý sa zobrazuje pod názvom stránky vo výsledkoch vyhľadávania. Jeho úlohou je opísať obsah stránky a presvedčiť používateľov, aby na ňu klikli. 
+
+![SEO](./img/seo-3.png)
+
+<Highlight> SEO popis by mal byť: </Highlight>
+    - pútavý a výstižne opisovať obsah stránky,
+    - mal by obsahovať čo najviac kľúčových slov,
+    - jeho dĺžka má byť 120-160 znakov,
