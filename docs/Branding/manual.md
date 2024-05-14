@@ -126,3 +126,5 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 - **Žiarovky**: **Žiarovka BOSCH H7 12V 55W Pure Light** (Názov, výrobca, typ svetla, napätie, výkon, označenie rady)
 - **Autodiely – príklady názvov**:
     - **Brzdový kotúč, Brzdové platničky, Brzdový strmeň, ....Tlmič pruženia, Olejový filter, Palivový filter, Kabínový filter, Vzduchový filter, Pružina podvozku, Čelné sklo....**
+
+Vždy do názvu uvedieme čo najviac informácií, ktoré sú potrebné: **napríklad nielen kryt, ale kryt čoho?** Nielen sada, ale sada čoho? Nielen lanko, ale lanko čoho? Aké lanko? ....
