@@ -70,3 +70,26 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 -	Ak výrobca dielu **nie je TecDoc-ový** – ako výrobcu uvediete výrobcu, ktorý je uvedený **na produkte** alebo tak **ako ho má uvedený dodávateľ** (BOLL, HART, NEO TOOLS, MOJE AUTO...)
 -	Ak výrobcu dielu **nepoznáte** – do kolonky výrobca uvediete **“OST“**.
 -	U turbodúchadiel od firmy MATEX **– do výrobcu uvediete „RC“**.
+
+#### 2.2.2 Ukážky nesprávne zadaných výrobcov:
+
+![Nespravny kod](./img/nespravny-vyrobca-1.png)
+![Nespravny kod](./img/nespravny-vyrobca-2.png)
+![Nespravny kod](./img/nespravny-vyrobca-3.png)
+![Nespravny kod](./img/nespravny-vyrobca-4.png)
+![Nespravny kod](./img/nespravny-vyrobca-5.png)
+![Nespravny kod](./img/nespravny-vyrobca-6.png)
+![Nespravny kod](./img/nespravny-vyrobca-7.png)
+![Nespravny kod](./img/nespravny-vyrobca-8.png)
+
+### 2.4 Názov produktu
+
+#### 2.4.1 Základné pravidlá:
+
+-	Názov má obsahovať **vždy podstatné meno produktu**, z názvu musí byť jasné o aký diel a produkt sa jedná. (Príklad Pneumatika 235/45 R18, Žiarovka P21W 24V, Motorový olej 5W30 5L....).
+-	Názov začína **veľkým písmenom**, pokračuje malými písmenami. 
+-	**V názvoch používajte diakritiku.**
+-	Názov uvádzajte v **slovenskom jazyku**.
+-	**Nepoužívajte skratky**. (nie brzd platn...).
+-	**Nepoužívajte slangové a nárečové názvy** (nie dosky, desky, silenblok, šrób, kasňa, vičko ...)
+-	**Maximálna dĺžka názvu je 50 znakov** – názvy neskracujeme, ak je pre identifikáciu tovaru potrebné uviesť dlhší názov, uvedieme ho celý aj napriek prekročeniu počtu znakov. 
