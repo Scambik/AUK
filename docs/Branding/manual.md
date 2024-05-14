@@ -71,7 +71,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 -	Ak výrobcu dielu **nepoznáte** – do kolonky výrobca uvediete **“OST“**.
 -	U turbodúchadiel od firmy MATEX **– do výrobcu uvediete „RC“**.
 
-#### 2.2.2 Ukážky nesprávne zadaných výrobcov:
+#### 2.3.2 Ukážky nesprávne zadaných výrobcov:
 
 ![Nespravny kod](./img/nespravny-vyrobca-1.png)
 ![Nespravny kod](./img/nespravny-vyrobca-2.png)
@@ -93,3 +93,15 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 -	**Nepoužívajte skratky**. (nie brzd platn...).
 -	**Nepoužívajte slangové a nárečové názvy** (nie dosky, desky, silenblok, šrób, kasňa, vičko ...)
 -	**Maximálna dĺžka názvu je 50 znakov** – názvy neskracujeme, ak je pre identifikáciu tovaru potrebné uviesť dlhší názov, uvedieme ho celý aj napriek prekročeniu počtu znakov. 
+
+#### 2.4.2 Ukážky nesprávne zadaných výrobcov:
+
+![Nespravny nazov](./img/nespravny-nazov-1.png)
+![Nespravny nazov](./img/nespravny-nazov-2.png)
+![Nespravny nazov](./img/nespravny-nazov-3.png)
+![Nespravny nazov](./img/nespravny-nazov-4.png)
+![Nespravny nazov](./img/nespravny-nazov-5.png)
+![Nespravny nazov](./img/nespravny-nazov-6.png)
+![Nespravny nazov](./img/nespravny-nazov-7.png)
+![Nespravny nazov](./img/nespravny-nazov-8.png)
+![Nespravny nazov](./img/nespravny-nazov-9.png)
