@@ -115,7 +115,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 
 #### 2.4.2 Príklady správnych názvov:
 
-- **Batérie:** **Autobatéria EXIDE 77Ah 12V 760A Premium** (Názov, značka, kapacita, napätie, štartovací prúd, produktová rada)
+- <span style="color:#D42B49">**Batérie:**</span> **Autobatéria EXIDE 77Ah 12V 760A Premium** (Názov, značka, kapacita, napätie, štartovací prúd, produktová rada)
 - **Oleje:**  **Motorový olej CASTROL 0W30 1L EDGE** (Názov, značka, viskozita, litráž, označenie produktovej rady)
 - **Kvapaliny:**
     - **Nemrznúca zmes do ostrekovačov 5L -20C ovocná vôňa** (Názov, litráž, bližšie označenie)
