@@ -14,3 +14,4 @@ Hlavným cieľom manuálu je zabrániť vytváraniu zbytočných duplicít v sys
 K vytvoreniu novej karty použite túto cestu:
 
 **NEXTIS / Sklad & produkty PIM / Produkty a sklad / Karty produktů (skupiny) / Nová karta skupiny produktů**
+![Založenie novej karty](docs/Branding/img/zalozenie-novej-karty.png)
