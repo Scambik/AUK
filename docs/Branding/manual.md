@@ -15,3 +15,10 @@ K vytvoreniu novej karty použite túto cestu:
 
 **NEXTIS / Sklad & produkty PIM / Produkty a sklad / Karty produktů (skupiny) / Nová karta skupiny produktů**
 ![Založenie novej karty](./img/zalozenie-novej-karty.png)
+
+### 2.2 Číslo skupiny / číslo TecDoc
+
+**Základné pravidlá:**
+- Kód položky je **vždy bez medzier** (bez medzier pred kódom, v kóde a za kódom).
+-	Ak je v kóde kombinácia čísla a textu, **text je vždy veľkými písmenami.**
+-	Ak je TecDoc-ový výrobca dielu – **číslo skupiny je rovnaké** ako **je kód pre TecDoc.**
