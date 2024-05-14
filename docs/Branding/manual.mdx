@@ -109,7 +109,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 *„Tovar alebo službu, ktorú podnikateľ predáva, nie je možné označiť na pokladničnom doklade len číselným alebo alfanumerickým kódom. Tovar alebo služba musí byť označená **tak, aby bolo možné jednoznačne predávaný tovar alebo poskytovanú službu identifikovať a odlíšiť od iného tovaru**, resp. služby, pričom je potrebné používať aj diakritiku. Povolené je aj používanie skráteného názvu predávaného tovaru alebo poskytovanej služby, ale aj v tomto prípade pozor na to, aby názov podnikateľ skrátil tak, aby tovar alebo poskytnutá služba bola jasne identifikovateľná.“*
 
 :::danger[UPOZORNENIE]
-### Doklad s takýmito názvami nesmie odísť k zákazníkovi!
+<Highlight> Doklad s takýmito názvami nesmie odísť k zákazníkovi!</Highlight>
 ![Nespravny doklad](./img/nespravny-doklad.png)
 :::
 
@@ -155,3 +155,26 @@ export const Highlight = ({ children }) => (
 
 Vždy do názvu uvedieme čo najviac informácií, ktoré sú potrebné: **napríklad nielen kryt, ale kryt čoho?** Nielen sada, ale sada čoho? Nielen lanko, ale lanko čoho? Aké lanko? ....
 
+### 2.5 Zaradenie kariet do štruktúry katalógu
+
+Pri zadávaní názvu je pre vybranú skupinu užívateľov povolené zaradenie karty do štruktúry kariet, t.z., že po zadaní názvu je potrebné doplniť ešte chýbajúce údaje o skupine, podskupine a sortimente.
+
+**Prvým príkladom je, že skupinu zadávame rovnako ako je názov výrobcu**, t.z. v tomto prípade K2, podskupinu K2 a sortiment K2. Toto je prípad kedy v rolovacom okne nemáme na výber inú možnosť, pretože neexistuje u výrobcu K2 podrobnejšie členenie. Doplnenie by teda u tohto produktu bolo K2/ K2 / K2.
+
+![Skupina ako nazov](./img/skupina-ako-nazov.png)
+
+**Druhým príkladom je skupina originálnych dielov** u ktorých zadávame skupinu OE, do podskupiny uvedieme názov značky/ výrobcu a sortiment je rovnaký ako podskupina. V tomto prípade by bola cesta k produktu OE / VAG / VAG. Je to z dôvodu spoločných dielov pre celý koncert, rovnako u PSA. V prípade, že by sme založili kartu s výrobcom napríklad ŠKODA, neskôr niekto iný s výrobcom AUDI atď, došlo by k duplicite kariet na jeden originálny diel. 
+
+![Skupina OE](./img/skupina-oe.png)
+
+**Tretím príkladom je skupina tecdocových dielov**, napríklad výrobca TRW. Skupina bude v tomto prípade TRW, podskupinu vyberieme z rolovacieho menu a zaradíme produkt správne. V prípade, že je produkt správne zaradený v podskupine je možné s ním neskôr lepšie pracovať pri nastavení cien (možnosť vybrať pre akciu podskupinu a urobiť nastavenie cien napríklad pre brzdy TRW), rovnako je to pomôckou pri vyhodnocovaní predajnosti a pri nákupoch.
+
+![Tecdocové Diely](./img/tecdocove-diely.png)
+
+<Highlight> Štvrtým prípadom sú karty, ktoré nemajú výrobcu tecdocového ani nie sú OE a ani pre nich v strome nie je potrebné vytvárať skupinu nakoľko môžu byť jednorázovým prekupom, pri takýchto kartách zadávame do výrobcu OST a zaradenie bude OSTATNE / OSTATNE / OSTATNE. </Highlight>
+
+**Samostatnou skupinou sú produkty, kde je naviazaná na produkt záloha** za starý diel. V takomto prípade musíme okrem bežnej predajnej karty vytvoriť aj tovarovú kartu pre zálohu a zaradíme ju do skupiny Zálohy / podskupina podľa výrobcu. (Príklad Zálohy/TRW/TRW). V tovarovej karte potom naviažeme na kartu zálohu. V produktovej karte – príplatky cez možnosť „pridať zboží“ zadáme kód zálohy, jej množstvo a cenu. Takto bude položka správne naviazaná pri predaji k tovaru. 
+
+![Produkt zaloha](./img/produkt-zaloha.png)
+
+### 2.6 Dodávateľ a objednávacie číslo / Výrobca u dodávateľa
