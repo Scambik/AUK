@@ -112,3 +112,17 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 **Doklad s takýmito názvami nesmie odísť k zákazníkovi!**
 ![Nespravny doklad](./img/nespravny-doklad.png)
 :::
+
+#### 2.4.2 Príklady správnych názvov:
+
+- **Batérie:** **Autobatéria EXIDE 77Ah 12V 760A Premium** (Názov, značka, kapacita, napätie, štartovací prúd, produktová rada)
+- **Oleje:**  **Motorový olej CASTROL 0W30 1L EDGE** (Názov, značka, viskozita, litráž, označenie produktovej rady)
+- **Kvapaliny:**
+    - **Nemrznúca zmes do ostrekovačov 5L -20C ovocná vôňa** (Názov, litráž, bližšie označenie)
+    - **Brzdová kvapalina BOSCH DOT4 5L** (Názov tovaru, výrobca, typ, litráž)
+- **Autokozmetika/Chémia:**
+    - **Čistič bŕzd TEXTAR 500 ml sprej** (Názov, výrobca, veľkosť balenia, konzistencia, príp. iné doplňujúce údaje)
+    - **Tekutý vosk K2 700ml SPECTRUM**
+- **Žiarovky**: **Žiarovka BOSCH H7 12V 55W Pure Light** (Názov, výrobca, typ svetla, napätie, výkon, označenie rady)
+- **Autodiely – príklady názvov**:
+    - **Brzdový kotúč, Brzdové platničky, Brzdový strmeň, ....Tlmič pruženia, Olejový filter, Palivový filter, Kabínový filter, Vzduchový filter, Pružina podvozku, Čelné sklo....**
