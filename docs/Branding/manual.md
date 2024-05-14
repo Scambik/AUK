@@ -110,5 +110,5 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 
 :::caution
 **Doklad s takýmito názvami nesmie odísť k zákazníkovi!**
-![Nespravny doklad](./img/nespravny-doklad-1.png)
+![Nespravny doklad](./img/nespravny-doklad.png)
 :::
