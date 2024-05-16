@@ -41,7 +41,8 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 
 **Šablóny pre vytváranie kódov kariet olejov:**
 
-**ELF5W30EVOFTFE1** – Motorový olej ELF 5W30 1L EVOLUTION FULLTECH **FESEL0W30WRFOR1** – Motorový olej FORD 0W30 1L WR FORWARD
+- **ELF5W30EVOFTFE1** – Motorový olej ELF 5W30 1L EVOLUTION FULLTECH 
+- **FESEL0W30WRFOR1** – Motorový olej FORD 0W30 1L WR FORWARD
 - **MOT104074** – Motorový olej MOTUL 10W50 1L 5100 4T
 - **MOB154294** -  Motorový olej MOBIL 5W30 5L ESP FORMULA
 - **TOT213768** – Motorový olej TOTAL 5W30 1L Quartz INEO ECS
@@ -94,7 +95,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 -	**Nepoužívajte slangové a nárečové názvy** (nie dosky, desky, silenblok, šrób, kasňa, vičko ...)
 -	**Maximálna dĺžka názvu je 50 znakov** – názvy neskracujeme, ak je pre identifikáciu tovaru potrebné uviesť dlhší názov, uvedieme ho celý aj napriek prekročeniu počtu znakov. 
 
-#### 2.4.2 Ukážky nesprávne zadaných výrobcov:
+#### 2.4.2 Ukážky nesprávne zadaných názvov:
 
 ![Nespravny nazov](./img/nespravny-nazov-1.png)
 ![Nespravny nazov](./img/nespravny-nazov-2.png)
@@ -113,7 +114,7 @@ Pri zakladaní produktových kariet olejov platia pri tvorbe kódu tieto pravidl
 ![Nespravny doklad](./img/nespravny-doklad.png)
 :::
 
-#### 2.4.2 Príklady správnych názvov:
+#### 2.4.3 Príklady správnych názvov:
 
 export const Highlight = ({ children }) => (
   <span
@@ -171,7 +172,7 @@ Pri zadávaní názvu je pre vybranú skupinu užívateľov povolené zaradenie 
 
 ![Tecdocové Diely](./img/tecdocove-diely.png)
 
-<Highlight> Štvrtým prípadom sú karty, ktoré nemajú výrobcu tecdocového ani nie sú OE a ani pre nich v strome nie je potrebné vytvárať skupinu nakoľko môžu byť jednorázovým prekupom, pri takýchto kartách zadávame do výrobcu OST a zaradenie bude OSTATNE / OSTATNE / OSTATNE. </Highlight>
+Štvrtým prípadom sú karty, ktoré nemajú výrobcu tecdocového ani nie sú OE a ani pre nich v strome nie je potrebné vytvárať skupinu nakoľko môžu byť jednorázovým prekupom, pri takýchto kartách zadávame do výrobcu OST a zaradenie bude OSTATNE / OSTATNE / OSTATNE.
 
 **Samostatnou skupinou sú produkty, kde je naviazaná na produkt záloha** za starý diel. V takomto prípade musíme okrem bežnej predajnej karty vytvoriť aj tovarovú kartu pre zálohu a zaradíme ju do skupiny Zálohy / podskupina podľa výrobcu. (Príklad Zálohy/TRW/TRW). V tovarovej karte potom naviažeme na kartu zálohu. V produktovej karte – príplatky cez možnosť „pridať zboží“ zadáme kód zálohy, jej množstvo a cenu. Takto bude položka správne naviazaná pri predaji k tovaru. 
 
@@ -216,7 +217,7 @@ Ak chceme, aby položka zaradená v univerzálnych dieloch, je potrebné ju zara
 
 Položku môžeme zaradiť aj do viacerých kategórií / podkategórií – napríklad olej zadávame do členenia podľa viskozity aj podľa litráže. 
 
-Ak nie je vytvorená kategória, do ktorej by mohla položka patriť pridáme novú cez funkciu „nová zložka“. Na ktorej kategórii sme – na takej úrovni novú zložku vytvorí. Po vytvorení takejto kategórie je potrebné urobiť ďalšie nastavenia – viac v bode 2.8.
+Ak nie je vytvorená kategória, do ktorej by mohla položka patriť pridáme novú cez funkciu „nová zložka“. Na ktorej kategórii sme – na takej úrovni novú zložku vytvorí. Po vytvorení takejto kategórie je potrebné urobiť ďalšie nastavenia – viac v bode 2.9.
 
 ![SEO](./img/seo-1.png)
 
